@@ -17,4 +17,4 @@
 
 ---
 
-Última versión de los subs disponible en [releases](https://github.com/ZagonSubs/summer-ghost/releases/). (v1.2 BD)
+Última versión de los subs disponible en [releases](https://github.com/ZagonSubs/summer-ghost/releases/). (v2.0 BD)
