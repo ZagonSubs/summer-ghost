@@ -20,17 +20,17 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 100,0:00:34.77,0:00:36.10,Default,Ao,0,0,0,,Pasó mucho tiempo, ¿no?
 Dialogue: 100,0:00:37.06,0:00:38.69,Default,Ao,0,0,0,,Desde que nos vimos por última vez.
 Dialogue: 100,0:00:38.98,0:00:40.10,Default,To,0,0,0,,Es cierto.
-Dialogue: 100,0:00:41.02,0:00:42.06,Default,To,0,0,0,,Perdón por no hacerlo antes.
+Dialogue: 100,0:00:41.02,0:00:42.06,Default,To,0,0,0,,Perdón por tardarme.
 Dialogue: 100,0:00:42.31,0:00:43.48,Default,Ry,0,0,0,,No te preocupes.
 Dialogue: 100,0:00:44.19,0:00:45.59,Default,Ry,0,0,0,,Me alegra de que al fin nos veamos.
 Dialogue: 100,0:00:49.36,0:00:52.37,Default,To,0,0,0,,Ya es verano otra vez.
-Dialogue: 100,0:00:56.91,0:00:58.71,Default,Ry,0,0,0,,Qué rápido se pasó el año{, ¿no?}.
+Dialogue: 100,0:00:56.91,0:00:58.71,Default,Ry,0,0,0,,Que rápido se pasó el año, ¿no?
 Dialogue: 100,0:01:01.59,0:01:02.71,Default,To,0,0,0,,Ayane-san.
 Dialogue: 100,0:01:20.10,0:01:21.19,Default,To,0,0,0,,¿Tú eres Aoi-chan?
 Dialogue: 100,0:01:21.19,0:01:23.23,Default,Ao,0,0,0,,Sí.
-Dialogue: 100,0:01:23.23,0:01:26.40,Default,To,0,0,0,,Mucho gusto. \NYo soy Sugisaki Tomoya. {-}
+Dialogue: 100,0:01:23.23,0:01:26.40,Default,To,0,0,0,,Mucho gusto. \NYo soy Sugisaki Tomoya.
 Dialogue: 100,0:01:26.86,0:01:27.73,Default,To,0,0,0,,Mucho gusto.
-Dialogue: 100,0:01:28.53,0:01:29.65,Default,Ry,0,0,0,,Sí que están ansiosos.
+Dialogue: 100,0:01:28.53,0:01:29.65,Default,Ry,0,0,0,,Qué ansiosos.
 Dialogue: 100,0:01:31.07,0:01:32.45,Default,Ry,0,0,0,,Aún faltan 5 minutos.
 Dialogue: 100,0:01:33.95,0:01:34.99,Default,Ry,0,0,0,,Me llamo Ryou.
 Dialogue: 100,0:01:35.45,0:01:36.41,Default,Ry,0,0,0,,Un gusto conocerlos.
@@ -56,7 +56,7 @@ Dialogue: 100,0:02:25.54,0:02:27.42,Default,To,0,0,0,,el fantasma de una persona
 Dialogue: 100,0:02:32.38,0:02:33.18,Default,To,0,0,0,,¿Qué pasa?
 Dialogue: 100,0:02:33.18,0:02:34.80,Default,Ao,0,0,0,,Oh, nada.
 Dialogue: 100,0:02:35.43,0:02:39.26,Default,Ao,0,0,0,,Ahora que lo recuerdo,\Nme dan miedo los fantasmas.
-Dialogue: 100,0:02:39.26,0:02:41.06,Default,Ry,0,0,0,,¿Y recién avisas?{¿Y lo dices ahora?}
+Dialogue: 100,0:02:39.26,0:02:41.06,Default,Ry,0,0,0,,¿Y lo dices ahora?
 Dialogue: 100,0:02:42.14,0:02:43.89,Default,Ry,0,0,0,,No tienes que venir si no quieres.
 Dialogue: 100,0:02:43.89,0:02:44.52,Default,Ry,0,0,0,,Sí voy a ir.
 Dialogue: 100,0:02:45.25,0:02:48.27,Default,Ao,0,0,0,,¡Perdón, perdón!\N ¡Yo también voy!
@@ -82,8 +82,8 @@ Dialogue: 100,0:04:13.90,0:04:14.99,Default,Ao,0,0,0,,¡Mira cuanto espacio!
 Dialogue: 100,0:04:14.99,0:04:17.07,Default,To,0,0,0,,Antes era un aeropuerto.
 Dialogue: 100,0:04:17.07,0:04:19.07,Default,To,0,0,0,,Escuché que cerró porque perdía dinero.
 Dialogue: 100,0:04:19.07,0:04:21.74,Default,Ry,0,0,0,,¡Chicos, hay que empezar!
-Dialogue: 100,0:04:28.21,0:04:31.34,Default,Ao,0,0,0,,¿Creen que de verdad exista\N el Fantasma de Verano?
-Dialogue: 100,0:04:32.09,0:04:33.30,Default,To,0,0,0,,Quien sabe.
+Dialogue: 100,0:04:28.21,0:04:31.34,Default,Ao,0,0,0,,¿Crees que de verdad exista\N el Fantasma de Verano?
+Dialogue: 100,0:04:32.09,0:04:33.30,Default,To,0,0,0,,Quién sabe.
 Dialogue: 100,0:04:33.30,0:04:36.30,Default,To,0,0,0,,Dicen que los fuegos artificiales\Ncalman las almas de los fantasmas.
 Dialogue: 100,0:04:38.88,0:04:40.68,Default,Ry,0,0,0,,Entonces, espero que los vean.
 Dialogue: 100,0:04:48.77,0:04:50.10,Default,Ry,0,0,0,,Parece que no vendrá.
@@ -102,23 +102,25 @@ Dialogue: 100,0:05:34.69,0:05:35.52,Default,To,0,0,0,,Es real.
 Dialogue: 100,0:05:44.49,0:05:46.08,Default,To,0,0,0,,¿Eres el Fantasma de Verano?
 Dialogue: 100,0:05:47.20,0:05:48.08,Default,Ay,0,0,0,,Así es.
 Dialogue: 100,0:05:49.37,0:05:50.79,Default,Ay,0,0,0,,¿A qué debo el placer?
-Dialogue: 100,0:05:51.79,0:05:53.21,Default,Ay,0,0,0,,¿Qué podrían querer
+Dialogue: 100,0:05:51.79,0:05:53.21,Default,Ay,0,0,0,,¿Qué podrías querer...
 Dialogue: 100,0:05:54.17,0:05:55.84,Default,Ay,0,0,0,,de alguien que ya está muerta?
 Dialogue: 100,0:06:22.95,0:06:24.07,Default,A,0,0,0,,{\an8}¡Buen tiro!
+Dialogue: 100,0:06:22.95,0:06:24.87,Default,B,0,0,0,,Lo hiciste a tiempo.
 Dialogue: 100,0:06:24.07,0:06:24.87,Default,C,0,0,0,,{\an8}Buena puntería.
 Dialogue: 100,0:06:32.12,0:06:33.87,Default,A,0,0,0,,¡¿Qué estás haciendo?!
 Dialogue: 100,0:06:33.87,0:06:34.96,Default,A,0,0,0,,¡No seas idiota!
 Dialogue: 100,0:06:34.96,0:06:36.42,Default,A,0,0,0,,¡Aléjate de ahí!
-Dialogue: 100,0:06:36.92,0:06:40.26,Default,D,0,0,0,,{\q2}¿Finalmente decide ir al colegio\Ny vuelve a pasar esto?
-Dialogue: 100,0:06:40.26,0:06:44.05,Default,E,0,0,0,,En mi opinión, creo que es problema de ella.
+Dialogue: 100,0:06:34.96,0:06:36.42,Default,Ao,0,0,0,,{\an8}¡Suéltame!
+Dialogue: 100,0:06:36.92,0:06:40.26,Default,D,0,0,0,,¿Finalmente decide ir al colegio\Ny vuelve a pasar esto?
+Dialogue: 100,0:06:40.26,0:06:44.05,Default,E,0,0,0,,En mi opinión, creo que es un problema de ella.
 Dialogue: 100,0:06:51.22,0:06:55.19,Default,Ao,0,0,0,,¿Los fantasmas se molestan entre si?
 Dialogue: 100,0:06:56.27,0:06:57.90,Default,Ay,0,0,0,,No estoy segura.
 Dialogue: 100,0:06:58.40,0:07:00.40,Default,Ay,0,0,0,,Creo que cada uno está por su cuenta.
 Dialogue: 100,0:07:02.65,0:07:04.28,Default,Ao,0,0,0,,Me alegro.
-Dialogue: 100,0:07:04.28,0:07:05.99,Default,Ao,0,0,0,,Prefiero eso.
+Dialogue: 100,0:07:04.28,0:07:05.99,Default,Ao,0,0,0,,Eso es mejor.
 Dialogue: 100,0:07:05.99,0:07:09.62,Default,Ay,0,0,0,,Lo entiendo. \NEstar entre otras personas no siempre es fácil.
 Dialogue: 100,0:07:11.83,0:07:12.62,Default,Ry,0,0,0,,¿Qué pasa?
-Dialogue: 100,0:07:13.08,0:07:13.82,Default,To,0,0,0,,Nada.
+Dialogue: 100,0:07:13.08,0:07:13.82,Default,To,0,0,0,,Nada...
 Dialogue: 0,0:07:14.55,0:07:16.46,Default,,0,0,0,,Solo me di cuenta que aún sigue encendido.
 Dialogue: 100,0:07:16.46,0:07:17.27,Default,Ry,0,0,0,,Tienes razón.
 Dialogue: 0,0:07:18.00,0:07:19.17,Default,,0,0,0,,Qué miedo.
@@ -126,7 +128,7 @@ Dialogue: 100,0:07:20.75,0:07:21.20,Default,Ay,0,0,0,,Dime.
 Dialogue: 0,0:07:21.20,0:07:24.55,Default,,0,0,0,,¿Eres una marginada en tu colegio?
 Dialogue: 100,0:07:24.55,0:07:26.51,Default,Ay,0,0,0,,¿Por eso quieres morir?
 Dialogue: 100,0:07:27.72,0:07:30.56,Default,Ay,0,0,0,,Verás, no todos pueden verme.
-Dialogue: 100,0:07:30.56,0:07:32.43,Default,Ay,0,0,0,,Solo soy visible para aquellos...
+Dialogue: 100,0:07:30.56,0:07:32.43,Default,Ay,0,0,0,,Solo soy visible para aquellos
 Dialogue: 100,0:07:32.43,0:07:34.98,Default,Ay,0,0,0,,que están cerca de la muerte.
 Dialogue: 100,0:07:36.56,0:07:39.64,Default,Ao,0,0,0,,Entonces, Tomoya-kun y Ryou-kun también...
 Dialogue: 100,0:07:43.36,0:07:45.07,Default,Ay,0,0,0,,¿Y ustedes dos?
@@ -140,7 +142,7 @@ Dialogue: 100,0:08:00.34,0:08:01.42,Default,Ay,0,0,0,,No lo sé.
 Dialogue: 100,0:08:02.13,0:08:03.71,Default,Ay,0,0,0,,¿Qué quieres saber?
 Dialogue: 100,0:08:04.01,0:08:07.34,Default,To,0,0,0,,¿Cómo ven el mundo los fantasmas?
 Dialogue: 100,0:08:07.84,0:08:09.05,Default,To,0,0,0,,Tengo curiosidad.
-Dialogue: 100,0:08:11.05,0:08:12.18,Default,Ay,0,0,0,,Me gustaría decirtelo.
+Dialogue: 100,0:08:11.05,0:08:12.18,Default,Ay,0,0,0,,Me gustaría decírtelo.
 Dialogue: 100,0:08:13.22,0:08:15.23,Default,Ay,0,0,0,,Pero no es fácil de explicar.
 Dialogue: 100,0:08:16.48,0:08:19.27,Default,Ay,0,0,0,,Algunas cosas solo las entenderás \Ncuando seas un fantasma.
 Dialogue: 100,0:08:20.19,0:08:21.86,Default,Ay,0,0,0,,Ya es hora de que me vaya.
@@ -157,16 +159,16 @@ Dialogue: 100,0:08:50.76,0:08:52.43,Default,Ry,0,0,0,,Les dije que se quedaran e
 Dialogue: 100,0:08:52.80,0:08:54.97,Default,Ry,0,0,0,,No tiene sentido que vengan a llorar.
 Dialogue: 100,0:09:01.73,0:09:03.23,Default,Ry,0,0,0,,Te estás esforzando, ¿no?
 Dialogue: 100,0:09:03.94,0:09:05.07,Default,Kh,0,0,0,,¡Senpai! {¡Kobayashi!} {-}
-Dialogue: 100,0:09:05.07,0:09:06.11,Default,Ry,0,0,0,,Ha pasado un buen tiempo.
+Dialogue: 100,0:09:05.07,0:09:06.11,Default,Ry,0,0,0,,Tiempo sin vernos.
 Dialogue: 100,0:09:08.70,0:09:11.53,Default,Kh,0,0,0,,Senpai, ¿no habías dejado de jugar?
 Dialogue: 100,0:09:12.99,0:09:13.95,Default,Ry,0,0,0,,Solo tuve ganas.
-Dialogue: 100,0:09:14.20,0:09:15.99,Default,Kh,0,0,0,,¿Tuviste ganas... ?
+Dialogue: 100,0:09:14.20,0:09:15.99,Default,Kh,0,0,0,,¿Tuviste ganas?
 Dialogue: 100,0:09:17.04,0:09:19.16,Default,Ry,0,0,0,,Pronto voy a morir.
 Dialogue: 100,0:09:19.16,0:09:19.62,Default,Kh,0,0,0,,¿Qué?
 Dialogue: 100,0:09:21.67,0:09:23.38,Default,Ry,0,0,0,,Han dicho que me quedan 9 meses de vida.
 Dialogue: 100,0:09:23.96,0:09:25.80,Default,Ry,0,0,0,,No volveré a ver los cerezos florecer.
-Dialogue: 100,0:09:30.01,0:09:31.26,Default,Ry,0,0,0,,Solo bromeo.
-Dialogue: 100,0:09:32.34,0:09:33.35,Default,Ry,0,0,0,,¿Te lo creíste?
+Dialogue: 100,0:09:30.01,0:09:31.26,Default,Ry,0,0,0,,Es broma.
+Dialogue: 100,0:09:32.34,0:09:33.35,Default,Ry,0,0,0,,¿Te la creíste?
 Dialogue: 100,0:09:36.77,0:09:39.35,Default,Kh,0,0,0,,Oye. No me asustes así.
 Dialogue: 100,0:09:39.35,0:09:41.06,Default,Kh,0,0,0,,Me preocupaste mucho.
 Dialogue: 100,0:10:00.66,0:10:01.25,Default,Mo,0,0,0,,Tomoya.
@@ -184,7 +186,7 @@ Dialogue: 100,0:10:25.02,0:10:26.90,Default,Mo,0,0,0,,¿Por qué es solo esto?
 Dialogue: 100,0:10:36.55,0:10:38.78,DefaultItalic,Ao,0,0,0,,¿Vas a la academia los domingos?
 Dialogue: 100,0:10:39.08,0:10:41.25,Default,To,0,0,0,,Sí, termino la preparatoria este año.
 Dialogue: 100,0:10:41.96,0:10:44.54,Default,Ao,0,0,0,,¿Qué? \NA mí me falta un año más.
-Dialogue: 100,0:10:44.54,0:10:45.67,Default,Ao,0,0,0,,Tomoya-kun, ¿eres mayor que yo? {dejé los honoríficos, te quedas sin "senpai" en esta línea}
+Dialogue: 100,0:10:44.54,0:10:45.67,Default,Ao,0,0,0,,Tomoya-kun, ¿eres mayor que yo? {dejé los honoríficos, te quedas sin "senpai"}
 Dialogue: 100,0:10:45.67,0:10:46.46,DefaultItalic,Ry,0,0,0,,¿En serio?
 Dialogue: 100,0:10:46.46,0:10:48.46,Default,Ry,0,0,0,,¿Recién empiezas la preparatoria?
 Dialogue: 100,0:10:48.46,0:10:50.66,DefaultItalic,Ao,0,0,0,,¿Qué? \N¿Tú también eres mayor?
@@ -198,24 +200,24 @@ Dialogue: 100,0:11:23.87,0:11:25.37,Default,Ao,0,0,0,,{\an1}Es solo que...
 Dialogue: 100,0:11:25.37,0:11:27.92,Default,Ao,0,0,0,,{\an1\pos(90,1035)}Aún no puedo\N creer lo que vimos.
 Dialogue: 100,0:11:27.92,0:11:31.05,Default,Ry,0,0,0,,{\an3}No dejes \Nque te afecte.
 Dialogue: 100,0:11:31.59,0:11:33.55,Default,Ry,0,0,0,,{\an3\pos(1887.5,1035)}Sería raro si no \Nte hubieras asustado.
-Dialogue: 100,0:11:36.09,0:11:36.93,Default,Ry,0,0,0,,{\an3}¿Tomoya?
+Dialogue: 100,0:11:36.09,0:11:36.93,Default,Ry,0,0,0,,{\an3\pos(1744,1035)}¿Tomoya?
 Dialogue: 100,0:11:37.47,0:11:38.55,Default,To,0,0,0,,Lo siento.
 Dialogue: 100,0:11:38.55,0:11:40.60,Default,To,0,0,0,,Ya casi llego a casa, \Nasí que voy a colgar.
 Dialogue: 100,0:11:40.60,0:11:42.39,Default,To,0,0,0,,Me alegra que no \Nhaya sido nada serio.
 Dialogue: 100,0:11:42.39,0:11:43.35,Default,To,0,0,0,,Hasta luego.
-Dialogue: 100,0:11:49.44,0:11:51.61,Default,Ay,0,0,0,,Hola.\NMe alegro de volver a verte.
-Dialogue: 100,0:11:52.65,0:11:56.20,Default,Ay,0,0,0,,Algo me dice que no estuviste satisfecho\Ncon nuestro anterior encuentro.
+Dialogue: 100,0:11:49.44,0:11:51.61,Default,Ay,0,0,0,,Hola.\N Me alegra verte otra vez.
+Dialogue: 100,0:11:52.65,0:11:56.20,Default,Ay,0,0,0,,Algo me dice que\N aún tienes muchas preguntas.
 Dialogue: 100,0:11:56.70,0:11:57.95,Default,To,0,0,0,,No del todo.
 Dialogue: 100,0:12:00.33,0:12:01.58,Default,Ay,0,0,0,,Quieres saber todo, ¿verdad?
 Dialogue: 100,0:12:04.83,0:12:07.79,Default,Ay,0,0,0,,Oye, solo por curiosidad. \N¿Por qué estás vivo?
 Dialogue: 100,0:12:09.00,0:12:11.50,Default,To,0,0,0,,¿Te parece que estoy vivo?
 Dialogue: 100,0:12:11.75,0:12:12.75,Default,Ay,0,0,0,,Yo digo que sí.
-Dialogue: 100,0:12:14.17,0:12:17.55,Default,To,0,0,0,,La verdad es que no me siento del todo vivo.
+Dialogue: 100,0:12:14.17,0:12:17.55,Default,To,0,0,0,,La verdad no me siento del todo vivo.
 Dialogue: 100,0:12:18.51,0:12:23.06,Default,To,0,0,0,,A veces me pregunto si no estoy muerto.
 Dialogue: 100,0:12:24.43,0:12:26.85,Default,Ay,0,0,0,,Es porque estás muerto por dentro.
 Dialogue: 100,0:12:27.35,0:12:28.19,Default,Ay,0,0,0,,Eso no es bueno.
 Dialogue: 100,0:12:28.65,0:12:30.31,Default,To,0,0,0,,No quiero que me lo diga un fantasma.
-Dialogue: 100,0:12:30.86,0:12:33.11,Default,Ay,0,0,0,,Y, ¿qué harás al respecto?
+Dialogue: 100,0:12:30.86,0:12:33.11,Default,Ay,0,0,0,,¿Y qué harás al respecto?
 Dialogue: 100,0:12:35.74,0:12:36.90,Default,To,0,0,0,,No lo sé.
 Dialogue: 100,0:12:38.36,0:12:40.16,Default,To,0,0,0,,Esperaba encontrar la respuesta.
 Dialogue: 100,0:12:41.24,0:12:46.54,Default,To,0,0,0,,¿Todos mis problemas y sufrimientos\Ndesaparecerían si me convirtiera en un fantasma?
@@ -232,9 +234,10 @@ Dialogue: 100,0:13:35.38,0:13:38.80,Default,Ay,0,0,0,,Tu cuerpo está en el suel
 Dialogue: 100,0:13:38.80,0:13:40.18,Default,Ay,0,0,0,,¡Has sido liberado!
 Dialogue: 100,0:13:43.51,0:13:44.97,Default,To,0,0,0,,Increíble.
 Dialogue: 100,0:13:47.56,0:13:48.98,Default,To,0,0,0,,¡Espera!
+Dialogue: 100,0:14:12.12,0:14:13.50,DefaultItalic,To,0,0,0,,¿Estoy bajo tierra?
 Dialogue: 100,0:14:15.42,0:14:16.84,Default,Ay,0,0,0,,Perdón, lo siento.
 Dialogue: 100,0:14:16.84,0:14:20.05,Default,Ay,0,0,0,,Quería saber como reaccionarías.
-Dialogue: 100,0:14:20.38,0:14:22.09,Default,To,0,0,0,,Qué mala eres.
+Dialogue: 100,0:14:20.38,0:14:22.09,Default,To,0,0,0,,Que mala eres.
 Dialogue: 100,0:14:22.34,0:14:23.84,Default,Ay,0,0,0,,Dije que lo siento.
 Dialogue: 100,0:14:24.34,0:14:27.47,Default,Ay,0,0,0,,Te enseñaré a volar.\N¿Con eso me perdonas?
 Dialogue: 100,0:14:29.64,0:14:30.81,Default,Ay,0,0,0,,Mira dentro de ti.
@@ -249,8 +252,8 @@ Dialogue: 100,0:15:02.97,0:15:04.76,Default,Ay,0,0,0,,Por eso te ves tan distanc
 Dialogue: 100,0:15:05.55,0:15:06.97,Default,Ay,0,0,0,,Qué desperdicio.
 Dialogue: 100,0:15:06.97,0:15:08.81,Default,Ay,0,0,0,,Estás desperdiciando esta oportunidad.
 Dialogue: 100,0:15:09.22,0:15:11.35,Default,Ay,0,0,0,,Ahora eres un fantasma.
-Dialogue: 100,0:15:11.35,0:15:12.81,Default,Ay,0,0,0,,Nadie se puede molestar contigo.
-Dialogue: 100,0:15:40.30,0:15:41.50,Default,Ay,0,0,0,,Hermoso, ¿no?
+Dialogue: 100,0:15:11.35,0:15:12.81,Default,Ay,0,0,0,,Nadie se molestará contigo.
+Dialogue: 100,0:15:40.30,0:15:41.50,Default,Ay,0,0,0,,Son hermosas, ¿no?
 Dialogue: 0,0:15:41.50,0:15:42.80,Default,,0,0,0,,Las luces de la ciudad.
 Dialogue: 100,0:15:43.55,0:15:44.63,Default,To,0,0,0,,Es verdad.
 Dialogue: 100,0:15:46.38,0:15:49.60,Default,To,0,0,0,,Aunque podrían brillar mucho más.
@@ -268,7 +271,7 @@ Dialogue: 100,0:16:19.88,0:16:20.92,Default,Ay,0,0,0,,¿Te da curiosidad?
 Dialogue: 100,0:16:22.50,0:16:24.05,Default,Ay,0,0,0,,Entonces, te contaré mi historia.
 Dialogue: 100,0:16:25.38,0:16:26.34,Default,Ay,0,0,0,,La verdad es que...
 Dialogue: 100,0:16:28.22,0:16:29.39,Default,Ay,0,0,0,,Me asesinaron.
-Dialogue: 100,0:16:32.93,0:16:34.02,Default,To,0,0,0,,¿En donde estamos?
+Dialogue: 100,0:16:32.93,0:16:34.02,Default,To,0,0,0,,¿En dónde estamos?
 Dialogue: 100,0:16:34.02,0:16:35.27,Default,Ay,0,0,0,,Esta es mi casa.
 Dialogue: 100,0:16:35.64,0:16:38.10,Default,Ay,0,0,0,,Ahora mi madre vive sola.
 Dialogue: 100,0:16:42.27,0:16:43.65,Default,Ay,0,0,0,,Hace tres años...
@@ -276,7 +279,7 @@ Dialogue: 0,0:16:43.65,0:16:45.65,Default,,0,0,0,,tuvimos una pelea terrible.
 Dialogue: 100,0:16:46.44,0:16:50.16,Default,Ay,0,0,0,,Fue por algo increíblemente estúpido.
 Dialogue: 100,0:16:50.57,0:16:54.24,Default,Ay,0,0,0,,Huí de la casa en una horrible tormenta.
 Dialogue: 100,0:16:56.45,0:16:58.50,Default,Ay,0,0,0,,Y mientras cruzaba la calle,
-Dialogue: 100,0:16:58.50,0:17:01.58,Default,Ay,0,0,0,,me atropelló un auto que se pasó la luz roja.
+Dialogue: 100,0:16:58.50,0:17:01.58,Default,Ay,0,0,0,,un auto que se pasó la luz roja me atropelló.
 Dialogue: 100,0:17:02.38,0:17:04.00,Default,Ay,0,0,0,,Es una manera muy estúpida de morir.
 Dialogue: 100,0:17:06.01,0:17:08.84,Default,Ay,0,0,0,,Excepto que, eso en realidad no me mató.
 Dialogue: 100,0:17:08.84,0:17:10.76,Default,Ay,0,0,0,,En ese momento estaba inconsciente.
@@ -284,12 +287,12 @@ Dialogue: 100,0:17:11.64,0:17:14.97,Default,Ay,0,0,0,,Pero cuando desperté, est
 Dialogue: 100,0:17:15.72,0:17:17.85,Default,Ay,0,0,0,,Probablemente en una maleta.
 Dialogue: 100,0:17:17.85,0:17:18.94,Default,To,0,0,0,,¿Por qué?
 Dialogue: 100,0:17:18.94,0:17:20.90,Default,Ay,0,0,0,,Para cubrir todas las huellas del accidente.
-Dialogue: 100,0:17:21.98,0:17:24.27,Default,Ay,0,0,0,,El conductor me enterró en algún lado.
+Dialogue: 100,0:17:21.98,0:17:24.27,Default,Ay,0,0,0,,El conductor me enterró en algún lugar.
 Dialogue: 100,0:17:25.19,0:17:26.97,Default,Ay,0,0,0,,No podía respirar,
 Dialogue: 0,0:17:26.97,0:17:29.03,Default,,0,0,0,,y lo único que escuchaba era un tren a lo lejos.
 Dialogue: 100,0:17:30.53,0:17:33.62,Default,Ay,0,0,0,,Ese es mi último recuerdo.
 Dialogue: 100,0:17:36.04,0:17:38.41,Default,Ay,0,0,0,,Mi madre aún espera que regrese.
-Dialogue: 100,0:17:39.12,0:17:40.75,Default,To,0,0,0,,¿En dónde te enterraron?
+Dialogue: 100,0:17:39.12,0:17:40.75,Default,To,0,0,0,,¿Dónde te enterró?
 Dialogue: 100,0:17:41.00,0:17:43.25,Default,Ay,0,0,0,,Traté de encontrar el lugar desde hace tiempo, pero me rendí.
 Dialogue: 100,0:17:43.71,0:17:45.75,Default,Ay,0,0,0,,No es como si eso fuera a cambiar algo.
 Dialogue: 100,0:17:49.56,0:17:51.76,Default,Ay,0,0,0,,Hay tantas cosas que\N me hubieran gustado hacer...
@@ -306,12 +309,12 @@ Dialogue: 100,0:18:16.66,0:18:17.79,Default,To,0,0,0,,¿Sí?
 Dialogue: 100,0:18:18.75,0:18:21.50,Default,Ay,0,0,0,,Quiero encontrar mi cuerpo.
 Dialogue: 100,0:18:23.08,0:18:25.38,Default,Ay,0,0,0,,Tal vez sea posible si me ayudas.
 Dialogue: 100,0:18:25.92,0:18:28.22,Default,Ay,0,0,0,,Solo me rendí porque,\N incluso si lo encontrase,
-Dialogue: 0,0:18:28.22,0:18:30.88,Default,,0,0,0,,no podría hacer nada.
+Dialogue: 0,0:18:28.22,0:18:30.88,Default,,0,0,0,,no sería capaz de hacer nada.
 Dialogue: 100,0:18:37.97,0:18:38.77,Default,Ay,0,0,0,,Discúlpame.
 Dialogue: 100,0:18:39.17,0:18:40.98,Default,Ay,0,0,0,,Se supone que debía alegrarte.
 Dialogue: 100,0:18:41.73,0:18:43.19,Default,Ay,0,0,0,,Finge que no dije nada.
 Dialogue: 100,0:18:44.94,0:18:46.19,Default,Ay,0,0,0,,Bu.
-Dialogue: 100,0:19:30.19,0:19:32.03,Default,Mo,0,0,0,,¿No deberías de estar en la academia?
+Dialogue: 100,0:19:30.19,0:19:32.03,Default,Mo,0,0,0,,¿No deberías estar en la academia?
 Dialogue: 100,0:19:34.11,0:19:35.11,Default,Mo,0,0,0,,Sube.
 Dialogue: 100,0:19:36.95,0:19:38.45,Default,Mo,0,0,0,,Ya estás en el tercer trimestre.
 Dialogue: 100,0:19:39.16,0:19:41.16,Default,Mo,0,0,0,,Has estado escapándote, ¿verdad?
@@ -331,7 +334,7 @@ Dialogue: 100,0:20:19.24,0:20:21.20,Default,Ay,0,0,0,,Considera esto como una ci
 Dialogue: 100,0:20:23.25,0:20:25.91,Default,To,0,0,0,,Tengo exámenes de admisión este año.
 Dialogue: 100,0:20:27.50,0:20:32.13,Default,To,0,0,0,,Cuando empiece la universidad, \Nno sé que tan seguido pueda venir aquí.
 Dialogue: 100,0:20:33.67,0:20:34.63,Default,Ay,0,0,0,,Ya veo.
-Dialogue: 100,0:20:36.09,0:20:38.34,Default,Ay,0,0,0,,Entonces hay que terminar \Nnuestra búsqueda{ de almas} aquí.
+Dialogue: 100,0:20:36.09,0:20:38.34,Default,Ay,0,0,0,,Entonces terminemos \Nnuestra búsqueda{ de almas} aquí.
 Dialogue: 100,0:20:38.34,0:20:38.72,Default,To,0,0,0,,¿Qué?
 Dialogue: 100,0:20:40.34,0:20:42.26,Default,Ay,0,0,0,,Ya casi acaba el verano.
 Dialogue: 100,0:20:42.26,0:20:43.85,Default,Ay,0,0,0,,Es un buen momento para detenerse.
@@ -341,7 +344,7 @@ Dialogue: 100,0:20:47.64,0:20:49.98,Default,Ay,0,0,0,,No te quiero distraer.
 Dialogue: 100,0:20:49.98,0:20:53.65,Default,Ay,0,0,0,,Tienes cosas más importantes\Nen que concentrarte que en mí.
 Dialogue: 100,0:20:53.65,0:20:54.32,Default,To,0,0,0,,Pero...
 Dialogue: 100,0:20:54.32,0:20:55.99,Default,Ay,0,0,0,,Menos dos millones de puntos.
-Dialogue: 100,0:20:56.90,0:20:59.28,Default,Ay,0,0,0,,Ser testarudo no te hará ganar a una chica.
+Dialogue: 100,0:20:56.90,0:20:59.28,Default,Ay,0,0,0,,Ser testarudo no te hará ganarte a una chica.
 Dialogue: 100,0:21:00.11,0:21:02.24,Default,Ay,0,0,0,,Dije que está bien.
 Dialogue: 100,0:21:02.70,0:21:06.83,Default,To,0,0,0,,¿Eso significa que \Nno estarás por mucho tiempo?
 Dialogue: 100,0:21:07.54,0:21:08.50,Default,Ay,0,0,0,,Posiblemente.
@@ -364,8 +367,8 @@ Dialogue: 100,0:21:48.54,0:21:49.62,Default,To,0,0,0,,Te equivocas.
 Dialogue: 100,0:21:49.62,0:21:51.36,Default,To,0,0,0,,Ella no murió a propósito.
 Dialogue: 100,0:21:52.58,0:21:54.09,Default,To,0,0,0,,Esto es importante.
 Dialogue: 100,0:21:54.67,0:21:56.34,Default,To,0,0,0,,Si no lo hago,
-Dialogue: 100,0:21:57.00,0:21:58.69,Default,To,0,0,0,,creo que me arrepentiré \Npor el resto de mi vida.
-Dialogue: 100,0:21:59.63,0:22:00.72,Default,Ry,0,0,0,,¿En serio?
+Dialogue: 100,0:21:57.00,0:21:58.69,Default,To,0,0,0,,me arrepentiré por el resto de mi vida.
+Dialogue: 100,0:21:59.63,0:22:00.72,Default,Ry,0,0,0,,¿Es en serio?
 Dialogue: 100,0:22:01.80,0:22:03.22,Default,Ry,0,0,0,,Bueno, suerte.
 Dialogue: 100,0:22:03.76,0:22:04.22,Default,To,0,0,0,,Ryou-kun...
 Dialogue: 100,0:22:04.22,0:22:05.26,Default,Ry,0,0,0,,No.
@@ -384,10 +387,10 @@ Dialogue: 100,0:22:41.22,0:22:42.38,Default,To,0,0,0,,Encontraremos tu cuerpo ho
 Dialogue: 100,0:22:46.85,0:22:47.81,Default,Ao,0,0,0,,¡Espera!
 Dialogue: 100,0:22:48.85,0:22:49.56,Default,Ao,0,0,0,,¡Ryou-kun!
 Dialogue: 100,0:23:02.53,0:23:03.07,Default,Ao,0,0,0,,¡Ryou-kun!
-Dialogue: 100,0:23:03.07,0:23:04.07,Default,Ry,0,0,0,,¡Largo!
+Dialogue: 100,0:23:03.07,0:23:04.07,Default,Ry,0,0,0,,¡Fuera!
 Dialogue: 100,0:23:06.37,0:23:07.45,Default,Ry,0,0,0,,Déjame solo.
 Dialogue: 100,0:23:11.50,0:23:12.66,Default,To,0,0,0,,¡Mierda!
-Dialogue: 100,0:23:14.67,0:23:18.38,Default,Ay,0,0,0,,No ayuda que no te puedas \Nseparar tanto de tu cuerpo.
+Dialogue: 100,0:23:14.67,0:23:18.38,Default,Ay,0,0,0,,Que no te puedas separar mucho de tu cuerpo no está ayudando.
 Dialogue: 100,0:23:18.38,0:23:20.88,Default,To,0,0,0,,Aún así, no me detendré \Nhasta que lo encuentre.
 Dialogue: 100,0:23:22.92,0:23:23.97,Default,Ay,0,0,0,,Tomoya-kun.
 Dialogue: 100,0:23:27.60,0:23:28.80,Default,Ry,0,0,0,,Por favor, déjame solo.
@@ -400,12 +403,12 @@ Dialogue: 100,0:23:49.12,0:23:50.41,Default,Ry,0,0,0,,¿Por qué el mundo es tan
 Dialogue: 100,0:23:51.83,0:23:52.79,Default,Ao,0,0,0,,Ryou-kun.
 Dialogue: 100,0:23:53.87,0:23:58.17,Default,Ao,0,0,0,,No voy a pretender que entiendo,\Npero al menos escúchame.
 Dialogue: 100,0:23:59.38,0:24:02.46,Default,Ao,0,0,0,,Me molestan mucho en el colegio.
-Dialogue: 100,0:24:03.42,0:24:05.17,Default,Ao,0,0,0,,Me provoca mucho dolor.
+Dialogue: 100,0:24:03.42,0:24:05.17,Default,Ao,0,0,0,,Eso me duele mucho.
 Dialogue: 100,0:24:06.18,0:24:11.68,Default,Ao,0,0,0,,Empecé a perder la esperanza y \Nme preguntaba por qué seguía viva.
 Dialogue: 100,0:24:12.93,0:24:18.60,Default,Ao,0,0,0,,Para mí, buscar un fantasma \Nes buscar respuestas.
 Dialogue: 100,0:24:19.56,0:24:22.57,Default,Ao,0,0,0,,Puede que estés batallando \Ncon algo completamente distinto,
 Dialogue: 100,0:24:22.90,0:24:26.15,Default,Ao,0,0,0,,pero estoy segura de que Tomoya-kun también tiene sus propios problemas.
-Dialogue: 100,0:24:27.53,0:24:31.37,Default,Ao,0,0,0,,Debe de haber una razón\N por la cuál nos reunimos los tres.
+Dialogue: 100,0:24:27.53,0:24:31.37,Default,Ao,0,0,0,,Debe de haber una razón\N por la cuál nos conocimos.
 Dialogue: 100,0:24:35.00,0:24:36.12,Default,To,0,0,0,,¡No puede ser!
 Dialogue: 100,0:24:38.75,0:24:40.21,Default,To,0,0,0,,Ayane-san.
 Dialogue: 100,0:24:40.21,0:24:41.46,Default,To,0,0,0,,¡Ayane-san!
@@ -418,33 +421,33 @@ Dialogue: 100,0:25:07.53,0:25:10.11,Default,Ry,0,0,0,,Odio a las personas como t
 Dialogue: 100,0:25:11.32,0:25:13.45,Default,Ry,0,0,0,,Piensan que tienen todo arreglado,
 Dialogue: 100,0:25:13.70,0:25:16.37,Default,Ry,0,0,0,,pero se ven más patéticos que los otros.
 Dialogue: 100,0:25:18.62,0:25:20.12,Default,Ry,0,0,0,,Pero supongo que te puedo ayudar.
-Dialogue: 100,0:25:21.04,0:25:22.46,Default,Ry,0,0,0,,Agradece a Aoi por esto.
+Dialogue: 100,0:25:21.04,0:25:22.46,Default,Ry,0,0,0,,Dale las gracias a Aoi.
 Dialogue: 100,0:25:24.38,0:25:25.21,Default,To,0,0,0,,Ryou-kun.
 Dialogue: 100,0:25:27.42,0:25:28.55,Default,Ry,0,0,0,,Terminemos con esto.
 Dialogue: 100,0:25:32.47,0:25:33.64,Default,To,0,0,0,,Gracias.
 Dialogue: 100,0:25:58.95,0:26:01.08,Default,Ay,0,0,0,,¿Crees que lo encontraremos?
 Dialogue: 100,0:26:01.42,0:26:04.21,Default,To,0,0,0,,Claro que sí. \NAhora somos cuatro.
 Dialogue: 100,0:26:06.25,0:26:09.13,Default,Ay,0,0,0,,No pensé que harías esto por mí...
-Dialogue: 100,0:26:09.84,0:26:11.77,Default,Ay,0,0,0,,Estoy muy agradecida.
+Dialogue: 100,0:26:09.84,0:26:11.77,Default,Ay,0,0,0,,Te lo agradezco.
 Dialogue: 100,0:26:12.59,0:26:14.55,Default,Ay,0,0,0,,No hay nada mejor que tener amigos, ¿no?
 Dialogue: 100,0:26:15.72,0:26:16.68,Default,Ay,0,0,0,,Atesóralos bien.
 Dialogue: 100,0:26:19.60,0:26:21.02,Default,Ao,0,0,0,,¡Tomoya-kun!
 Dialogue: 100,0:26:21.35,0:26:22.73,Default,To,0,0,0,,¿Aoi-chan? ¿Qué pasa?
 Dialogue: 100,0:26:22.73,0:26:23.70,Default,Ao,0,0,0,,¡Ven rápido!
-Dialogue: 100,0:26:24.15,0:26:27.15,Default,Ao,0,0,0,,Creo que encontré la maleta.
+Dialogue: 100,0:26:24.15,0:26:27.15,Default,Ao,0,0,0,,Creo que encontramos la maleta.
 Dialogue: 100,0:26:32.03,0:26:33.74,Default,Ao,0,0,0,,Ayane-san, mira.
 Dialogue: 100,0:26:34.20,0:26:35.83,Default,Ay,0,0,0,,Gracias, iré a ver.
 Dialogue: 100,0:26:38.54,0:26:40.33,Default,Ao,0,0,0,,Me pregunto que pasará con Ayane-san.
 Dialogue: 100,0:26:41.21,0:26:44.92,Default,Ao,0,0,0,,¿Desaparecerá cuando encuentre su cuerpo?
 Dialogue: 100,0:26:46.13,0:26:47.92,Default,Ao,0,0,0,,Eso es un poco triste...
-Dialogue: 100,0:26:51.26,0:26:53.43,Default,Ay,0,0,0,,Tienes razón, estoy ahí.
+Dialogue: 100,0:26:51.26,0:26:53.43,Default,Ay,0,0,0,,Tienes razón, mi cuerpo está ahí.
 Dialogue: 100,0:26:53.68,0:26:55.76,Default,Ry,0,0,0,,¡Bien! Hay que regresar.
 Dialogue: 100,0:26:55.76,0:26:56.14,Default,Ao,0,0,0,,Sí.
 Dialogue: 100,0:26:57.97,0:26:58.81,Default,Ay,0,0,0,,Estoy tan feliz.
 Dialogue: 100,0:26:59.93,0:27:02.49,Default,Ay,0,0,0,,Espero que mi mamá ya pueda descansar.
 Dialogue: 100,0:27:03.19,0:27:05.98,Default,To,0,0,0,,Así que de verdad vas a desaparecer.
 Dialogue: 100,0:27:06.69,0:27:07.90,Default,Ay,0,0,0,,Eso espero.
-Dialogue: 100,0:27:08.65,0:27:10.65,Default,Ay,0,0,0,,Pero me divertí mucho.
+Dialogue: 100,0:27:08.65,0:27:10.65,Default,Ay,0,0,0,,Pero fue divertido.
 Dialogue: 100,0:27:10.65,0:27:12.82,Default,Ay,0,0,0,,Hice que mi tiempo aquí valiera la pena.
 Dialogue: 100,0:27:17.03,0:27:17.78,Default,Ay,0,0,0,,Tomoya-kun.
 Dialogue: 100,0:27:19.24,0:27:20.46,Default,Ay,0,0,0,,Tú puedes.
@@ -462,7 +465,7 @@ Dialogue: 100,0:27:59.28,0:27:59.70,Default,To,0,0,0,,¡Ryou-kun!
 Dialogue: 100,0:27:59.70,0:28:01.29,Default,Ry,0,0,0,,Estoy bien. Vayan sin mí.
 Dialogue: 100,0:28:02.12,0:28:03.87,Default,Ry,0,0,0,,No hagas esperar a Ayane-san.
 Dialogue: 100,0:28:11.50,0:28:12.50,Default,To,0,0,0,,Tiene que ser ahí.
-Dialogue: 100,0:28:12.50,0:28:13.34,Default,Ao,0,0,0,,Sí.
+Dialogue: 100,0:28:12.50,0:28:13.34,Default,Ao,0,0,0,,Si.
 Dialogue: 100,0:28:13.80,0:28:15.01,Default,Ao,0,0,0,,¿Pero cómo llegamos?
 Dialogue: 100,0:28:15.84,0:28:19.72,Default,Ay,0,0,0,,Tienes tus propios problemas,\Ny aún así te arrastré al mio.
 Dialogue: 100,0:28:21.18,0:28:21.89,Default,Ay,0,0,0,,Y después de eso,
@@ -490,21 +493,21 @@ Dialogue: 100,0:30:00.45,0:30:02.78,Default,Ay,0,0,0,,Te separarás del mundo re
 Dialogue: 100,0:30:09.08,0:30:11.67,Default,Ay,0,0,0,,Sí, supongo que no debemos hacer esto.
 Dialogue: 100,0:30:13.17,0:30:15.00,Default,Ay,0,0,0,,¿Por qué te ves triste?
 Dialogue: 100,0:30:17.34,0:30:20.34,Default,Ay,0,0,0,,¿Qué es lo que de verdad quieres?
-Dialogue: 100,0:30:33.81,0:30:35.15,Default,Ry,0,0,0,,¡Tomoya!
+Dialogue: 100,0:30:33.81,0:30:35.15,Default,Ry,0,0,0,,{\i1}¡Tomoya!
 Dialogue: 100,0:30:36.32,0:30:38.32,Default,Ry,0,0,0,,¡¿Qué demonios haces?! ¡Despierta!
 Dialogue: 100,0:30:38.32,0:30:38.98,Default,Ao,0,0,0,,¿Ryou-kun?
 Dialogue: 100,0:30:38.98,0:30:41.03,Default,Ry,0,0,0,,Quisiste hacer esto más que nadie.
 Dialogue: 100,0:30:41.03,0:30:43.28,Default,Ry,0,0,0,,¡Así que míralo hasta el final!
-Dialogue: 100,0:30:43.28,0:30:45.70,Default,Ry,0,0,0,,¿Por qué te rendirías ahora?
+Dialogue: 100,0:30:43.28,0:30:45.70,Default,Ry,0,0,0,,¿Por qué te rindes ahora?
 Dialogue: 100,0:30:46.53,0:30:48.49,Default,Ry,0,0,0,,¡Como si te fuese a dejar!
 Dialogue: 100,0:30:49.45,0:30:52.62,Default,To,0,0,0,,No. Tengo que regresar.
 Dialogue: 100,0:30:52.62,0:30:53.67,Default,Ay,0,0,0,,¿Por qué?
 Dialogue: 100,0:30:57.75,0:30:59.38,Default,Ay,0,0,0,,¿Cuál es el punto?
 Dialogue: 100,0:31:00.05,0:31:03.80,Default,Ay,0,0,0,,¿Por qué te aferras a un mundo \Ndonde solo tienes sufrimiento?
 Dialogue: 100,0:31:08.68,0:31:09.31,Default,Ay,0,0,0,,¡¿Por qué?!
-Dialogue: 100,0:31:15.15,0:31:16.77,Default,To,0,0,0,,Tienes razón.
+Dialogue: 100,0:31:15.15,0:31:16.77,Default,To,0,0,0,,Es cierto.
 Dialogue: 0,0:31:16.77,0:31:18.77,Default,,0,0,0,,Mi vida es solo una carga.
-Dialogue: 100,0:31:20.03,0:31:21.44,Default,To,0,0,0,,¡Pero aún no termina!
+Dialogue: 100,0:31:20.03,0:31:21.44,Default,To,0,0,0,,¡Pero aun no termina!
 Dialogue: 100,0:31:22.57,0:31:25.28,Default,To,0,0,0,,Al igual que Ryou-kun y Aoi-chan,
 Dialogue: 100,0:31:25.78,0:31:27.85,Default,To,0,0,0,,aprendí que si levantas la mirada,
 Dialogue: 0,0:31:27.85,0:31:29.95,Default,,0,0,0,,habrá alguien esperando para ayudarte.
@@ -517,32 +520,32 @@ Dialogue: 100,0:31:46.72,0:31:47.68,Default,To,0,0,0,,Yo...
 Dialogue: 100,0:31:48.30,0:31:50.60,Default,To,0,0,0,,¡Tengo que aceptar esas cosas primero!
 Dialogue: 100,0:32:13.45,0:32:13.95,Default,Ao,0,0,0,,¡Tomoya-kun!
 Dialogue: 100,0:32:13.95,0:32:14.37,Default,Ry,0,0,0,,¡Tomoya!
-Dialogue: 100,0:32:45.74,0:32:46.78,Default,To,0,0,0,,Qué alegría.
+Dialogue: 100,0:32:45.74,0:32:46.78,Default,To,0,0,0,,Qué alivio.
 Dialogue: 100,0:33:00.00,0:33:02.88,Default,Ay,0,0,0,,Gracias por encontrarme.
 Dialogue: 100,0:33:19.39,0:33:20.60,Default,Mo,0,0,0,,Ya voy.
 Dialogue: 100,0:33:33.58,0:33:34.49,Default,Mo,0,0,0,,¿Ayane?
 Dialogue: 100,0:34:17.66,0:34:20.50,Default,To,0,0,0,,Ya es verano otra vez, ¿eh?
 Dialogue: 100,0:34:24.63,0:34:27.42,Default,Ry,0,0,0,,¿Cómo han estado?
-Dialogue: 100,0:34:28.05,0:34:29.46,Default,Ry,0,0,0,,¿Las cosas van bien?
+Dialogue: 100,0:34:28.05,0:34:29.46,Default,Ry,0,0,0,,¿Todo va bien?
 Dialogue: 100,0:34:32.13,0:34:32.93,Default,To,0,0,0,,Sí.
 Dialogue: 100,0:34:34.93,0:34:36.05,Default,To,0,0,0,,Más o menos.
 Dialogue: 100,0:34:40.68,0:34:44.56,Default,To,0,0,0,,Vivir para uno mismo no es\Ntan fácil como pensé.
 Dialogue: 100,0:34:45.44,0:34:46.19,Default,Ao,0,0,0,,Igual yo.
 Dialogue: 100,0:34:48.94,0:34:51.53,Default,Ao,0,0,0,,Claro que mi vida no es color de rosas, pero...
-Dialogue: 100,0:34:56.83,0:35:00.70,Default,Ao,0,0,0,,¡¿Por cuanto tiempo van a actuar como niños?!
+Dialogue: 100,0:34:56.83,0:35:00.70,Default,Ao,0,0,0,,¡¿Por cuánto tiempo más van a actuar como niños?!
 Dialogue: 100,0:35:00.70,0:35:02.83,Default,Ao,0,0,0,,Pero ha estado mejorando poco a poco.
 Dialogue: 100,0:35:05.33,0:35:10.21,Default,To,0,0,0,,Tal vez sería mas fácil\N si hiciera lo que me dicen.
 Dialogue: 100,0:35:11.34,0:35:12.84,Default,To,0,0,0,,A veces pienso en eso.
 Dialogue: 100,0:35:14.55,0:35:15.43,Default,To,0,0,0,,Pero está bien.
 Dialogue: 100,0:35:16.55,0:35:20.60,Default,To,0,0,0,,Todo tiene su final.
 Dialogue: 100,0:35:20.89,0:35:23.10,Default,To,0,0,0,,Cuando pienso en eso, mis miedos desaparecen.
-Dialogue: 100,0:35:25.35,0:35:28.86,Default,To,0,0,0,,Yo seré el que decida por mí mismo.
+Dialogue: 100,0:35:25.35,0:35:28.86,Default,To,0,0,0,,Yo seré el que decida por mi mismo.
 Dialogue: 100,0:35:34.36,0:35:35.45,Default,Ry,0,0,0,,Me alegro por ti.
 Dialogue: 100,0:35:41.58,0:35:42.87,Default,Ry,0,0,0,,Se nos acaba el tiempo.
 Dialogue: 100,0:35:43.83,0:35:45.67,Default,Ry,0,0,0,,Me alegra poder hablar con ustedes.
 Dialogue: 100,0:35:46.42,0:35:48.38,Default,Ry,0,0,0,,Ya que no me pude despedir.
 Dialogue: 100,0:35:52.76,0:35:54.63,Default,Ry,0,0,0,,¿Por qué nací?
-Dialogue: 100,0:35:55.38,0:35:57.34,Default,Ry,0,0,0,,Ese era el único pensamiento\N que cruzaba mi mente.
+Dialogue: 100,0:35:55.38,0:35:57.34,Default,Ry,0,0,0,,Ese era lo único en lo que pensaba.
 Dialogue: 100,0:35:59.10,0:36:05.02,Default,Ry,0,0,0,,Pero vi la siguiente primavera porque creí que me podía curar.
 Dialogue: 100,0:36:06.90,0:36:10.69,Default,Ry,0,0,0,,Dejen de llorar por alguien\N que lleva meses muerto.
 Dialogue: 100,0:36:11.73,0:36:14.99,Default,Ry,0,0,0,,Estoy seguro que las cosas\Nmejorarán para ustedes.
@@ -552,6 +555,3 @@ Dialogue: 100,0:36:22.29,0:36:23.12,Default,Ry,0,0,0,,Aoi-chan.
 Dialogue: 100,0:36:24.91,0:36:26.21,Default,Ry,0,0,0,,Vivan sus mejores vidas.
 Dialogue: 100,0:36:49.02,0:36:50.12,Default,Ao,0,0,0,,Hay que volver.
 Dialogue: 100,0:36:53.36,0:36:54.18,Default,To,0,0,0,,Está bien.
-Dialogue: 100,0:14:12.12,0:14:13.50,DefaultItalic,To,0,0,0,,¿Estoy bajo tierra?
-Dialogue: 100,0:06:22.95,0:06:24.87,Default,B,0,0,0,,Justo a tiempo.
-Dialogue: 100,0:06:34.96,0:06:36.42,DefaultTop,Ao,0,0,0,,¡Suéltame!
